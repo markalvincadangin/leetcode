@@ -15,6 +15,6 @@
 
 ## Problems Solved
 
-| # | Name | Topic | Difficulty | Date |
-|---|------|-------|------------|------|
-|   |      |       |            |      |
+| #   | Name               | Topic            | Difficulty | Date       |
+| --- | ------------------ | ---------------- | ---------- | ---------- |
+| 217 | Contains Duplicate | Arrays & Hashing | Easy       | 2026-06-02 |

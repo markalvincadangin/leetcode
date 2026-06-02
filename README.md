@@ -9,7 +9,7 @@ Following the [NeetCode 150](https://neetcode.io/roadmap) roadmap.
 
 | Topic | Solved |
 | --- | --- |
-| Arrays & Hashing | 0 |
+| Arrays & Hashing | 1 |
 | Two Pointers | 0 |
 | Sliding Window | 0 |
 | Binary Search | 0 |
@@ -20,7 +20,7 @@ Following the [NeetCode 150](https://neetcode.io/roadmap) roadmap.
 | Backtracking | 0 |
 | Graphs | 0 |
 | Dynamic Programming | 0 |
-| **Total** | **0 / 150** |
+| **Total** | **1 / 150** |
 
 ---
 
