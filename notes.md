@@ -17,5 +17,6 @@
 
 | #   | Name               | Topic            | Difficulty | Date       |
 | --- | ------------------ | ---------------- | ---------- | ---------- |
+| 1   | Two Sum            | Arrays & Hashing | Easy       | 2026-06-07 |
 | 217 | Contains Duplicate | Arrays & Hashing | Easy       | 2026-06-02 |
 | 242 | Valid Anagram      | Arrays & Hashing | Easy       | 2026-06-05 |
