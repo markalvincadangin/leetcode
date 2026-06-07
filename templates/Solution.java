@@ -2,6 +2,7 @@ package templates;
 
 import java.util.*;
 
+@SuppressWarnings("unused")
 public class Solution {
 
     // ─── Problem ──────────────────────────────────────────────
